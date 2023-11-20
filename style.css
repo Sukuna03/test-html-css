@@ -1,0 +1,26 @@
+div{
+	background-color: #eee;
+	margin: 10px;
+	text-align: center;
+	padding: 30px
+}
+p{
+	
+	text-align: center;
+}
+
+a{
+	padding: 15px;
+	background-color: gold;
+  	text-decoration:none;
+  	color: black;
+}
+
+h2{
+
+	background-color: black;
+	text-align: center;
+	color: steelblue;
+    padding: 15px;
+}
+
